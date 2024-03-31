@@ -1,0 +1,29 @@
+#为什么重要 
+没有同学有耐心给你讲所有的东西。所以要自己学会自强
+
+
+# 如何到达拐点。reflection point,
+到达之后就可以独立开发，不再要手把手的教
+
+
+# 1.Domain specific knowledge, 
+shell的 for loop,线程
+## 初学时 最重要的是 detail oriented, 注重细节
+## 学会看错误日志。
+## 学会谷歌搜问题
+## 会举一反三
+
+# 网页的开发 拐点。
+1.CRUD
+2.algorithm
+
+# passing the reflection point ASAP.
+拐点需要时间， 要有耐心
+跟着tutorial 一起做， 同时自己要做练习。只有做了练习， 知识才能内化，
+
+总是学习新东西， stayfoolish, stay hungry
+
+#reference
+https://www.cnblogs.com/yxiaodao/p/10674891.html
+
+
